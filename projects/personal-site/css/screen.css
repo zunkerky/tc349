@@ -1,0 +1,42 @@
+body {
+	background: #476A34;
+	border-top: 5px solid #608341;
+	margin: 0;
+	font-family: "Helvetica", sans-serif;
+	line-height: 1.4em;
+	border-bottom: 100px solid #8AA37B;
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+h1 {
+	padding: 20px 15px;
+	background: #aaa;
+	color: #fff;
+	text-shadow: 1px 1px 2px #424242;
+}
+
+h3 {
+	margin-bottom: 5px;
+}
+
+.container {
+	background: #fff;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.menu.old {  
+position:absolute; top: 0; right: 50;
+padding:20px; color:#fff; background: gray; border:1px black solid; width:100px; margin-top:0;
+}
+
+.menu {
+  position: absolute;
+  top: 3em;
+  right: -20;
+  bottom: em;
+  left: -20;
+}
