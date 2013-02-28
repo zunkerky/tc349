@@ -1,0 +1,24 @@
+Chartbeat critique:
+
+After my first look and interaction with Charbeat's homepage I was very impressed. Everything about Chartbeat points to cutting edge, modern web interaction and design. The first thing that really impressed me was the smooth transition from one section to the next with the links on the homepage. Instead of taking me to a new page the links slowly scrolled down to the appropriate loaction, while doing this the background images would respond and becoming animated, something that was impressive.
+
+Other interesting design and interaction related elements on the site were things like the magnifying glass on the publishing page, or the real time data that is constantly refreshing.
+
+The demo feature was also very interesting, showing an abundant amount of information for someecards.com. The theme for the demo is very consistant to the other pages on Chartbeat.com, with an inviting color scheme, big and small text with lots of simple icons for indication. The design of Chartbeat's own website is reflective in the work of their products.
+
+The only frustrating thing about Chartbeat is that the pages have so much interactivity and unique elements to them that it can be distracting. While I found the magnifying glass to be a cool feature, it isn't very practical if you are actually trying to analyze the data underneath it.
+
+Overall a very well designed and inspiring site.
+
+
+
+Pros:
+
+Great color scheme
+Modern design
+User interactivity and live data updates
+
+Cons:
+
+Many of the pros can be distracting/overwhelming at first glance
+
