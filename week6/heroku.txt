@@ -1,0 +1,28 @@
+Heroku Critique:
+
+Heroku has a very distinctive style when compared to many other tech and hosting company websites. At my first glance of the site I saw the oragami shapes and thought that the site would feature some type of artwork or craft making, but as I started to read the text I was surprised to read things like "cloud computing" and "Agile development for Ruby". 
+
+Most tech and web hosting related sites have pictures of servers, circuit boards, or banners displaying affiliations with Cisco, Microsoft, etc. On Heroku's main page there are none of these usual indicators. Instead when viewing Heroku's homepage you are shown a page with dark colors, and Japanese themed artwork, which seems fitting for the sites name.
+
+The dark purple theme carries out throughout most of the site except for the Addons page. This page has a very similar style to the rest of the site, however the background changes to a dark green color and displays the addons offered with small icons.
+
+The design of the site follows a mix between the single, gallery, and double style layouts discussed in this weeks videos. The home page is clearly a single style layout but on other pages like the addons page there is clearly a gallery style theme. Other pages such as the "Why Heroku" page have a double like style, displaying information in both the center and sides of the page.     
+
+Pros: 
+
+Beautiful design and images/artwork
+Unique style compared to most tech websites
+Easy to navigate
+Displays a lot of information in 
+
+Cons: 
+
+Text can be difficult to read initially because of the combination of dark text on a darker background.
+
+
+================
+
+
+My layout choices:
+
+I chose a single style layout for the update of my personal site. My main reasons for choosing this style was that I felt it was fitting for the purely informational static site I have created. Another reason I decided to chose the single style layout over the double or gallery was because of content. I felt that with the current amount of content on my site that single was more appropriate over double, because there simply isn't enough content right now to make an attractive double style site. As the semester continues and as I add more content I may explore the other two types of CSS layouts. 
