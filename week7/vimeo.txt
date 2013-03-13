@@ -1,0 +1,18 @@
+Vimeo Critique:
+
+After searching around and using Vimeo I find that it is a very aesthetically pleasing and feature rich website. The site uses many of the design techniques discussed in this course. On the homepage the Vimeo has a single layout theme with centered content and unique artwork in the background. The color scheme used on this page is pleasing, and I enjoy how the homepage jumps out and grabs the visitors attention without resorting to flashy animations or bright text.
+
+The whole site has a web 3.0 style and feel to it while still breaking free from the plain styling and color schemes that google uses on YouTube. When scrolling over 'create' 'watch' and 'upload' menu items a drop down menu quickly appears displaying more advanced navigation. This is a nice feature because it allows a visitor to navigate to the rest of the content on the site without having to click through a number of links on different pages first.
+
+The design styles represented on the other pages of the site take advantage of some other css design techinques such as double style on the Vimeo Video School/Channels pages and a gallery style theme on the Watch 'Categories' page. Each design element feels appropriate and natural when browsing through the site. It is nice to see big tile previews of the videos that are available on the Categories page before you acutally select a category or view a video.
+
+It is clear that the creators of Vimeo have a great understanding of web development and design processes that fit each page.
+
+Pros:
+Very good choice of color schemes / design layouts
+Navigation on the site is simple and easy to understand
+Very artistic design while still having a modern feel to the site
+
+Cons:
+I felt on some pages there was information on the side of the page that didn't belong and just felt thrown in.
+The activity feature on the Groups page seemed to be displaying information in a manner that does not provide the visitor with any value. 
