@@ -67,8 +67,8 @@ IMG.dcclogo {
 
 header { padding: 200px 0 0 0; display: block; }
 header h1 { width: 960px; margin: 0 auto; }
-a { color: #eee; }
-a:hover { color: white; }
+a { color: blue; }
+a:hover { color: blue; }
 
 .nav-wrap { 
 	margin: 0px auto; 
@@ -141,13 +141,15 @@ a:hover { color: white; }
 }
 
 #footer {
-	height: 50px;
+	height: 20px;
 	margin: 0 auto;
-	padding: 75px;
+	padding: 50px;
+	background-color: #00688B;
 }
 
 #footer p {
 	text-align: center;
+	color: white;
 }
 
 #banner {
@@ -236,8 +238,4 @@ a:hover { color: white; }
 
 .block .content a:hover {
 	background: #00688B;
-}
-
-.gmap {
-	margin: 0px auto;
 }
