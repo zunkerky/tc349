@@ -56,7 +56,6 @@ IMG.dcclogo {
 	padding: 10px;
 }
 
-
 #wrapper {
 	background: #F1F2E9;
 }
@@ -125,7 +124,7 @@ IMG.dcclogo {
 
 #content {
 	margin: 0px auto;
-	width: 752px;
+	width: 800px;
 	padding: 0px 0px 0px 0px;
 }
 
@@ -168,6 +167,7 @@ IMG.dcclogo {
 	float: left;
 	width: 384px;
 	margin-right: 20px;
+	padding-left: 3px;
 }
 
 #blockicon #blockicon1 a:hover {
@@ -237,4 +237,8 @@ IMG.dcclogo {
 
 .block .content a:hover {
 	background: #00688B;
+}
+
+.gmap {
+	margin: 0px auto;
 }
