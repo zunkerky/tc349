@@ -2,33 +2,34 @@ body {
 	margin: 0;
 	padding: 0;
 	background: #E5E6DD;
-	font-family: Tahoma, Geneva, sans-serif;
+	font-family: Arial, sans-serif;
 	font-size: 12px;
 	color: #8A8985;
 	width: 1200px;
 	margin: 0px auto;
 }
 
-h1, h2, h3 {
+h1, {
 	margin: 0;
 	padding: 0;
-	text-transform: uppercase;
-	font-family: 'Oswald', sans-serif;
 	font-weight: 300;
 	color: #7D7764;
 }
 
-h1 {
-	font-size: 2em;
-}
-
 h2 {
-	font-size: 2.8em;
+	margin: 0;
+	padding: 0;
+	font-weight: 300;
+	color: #7D7764;
 }
 
 h3 {
-	font-size: 1.6em;
+	margin: 0;
+	padding: 0;
+	font-weight: 300;
+	color: #7D7764;
 }
+
 
 p, ul, ol {
 	margin-top: 0;
@@ -40,7 +41,6 @@ a {
 	color: #5BA689;
 }
 
-/*DCC Logo*/
 IMG.displayed {
     display: block;
     margin-left: auto;
@@ -58,7 +58,6 @@ IMG.dcclogo {
 
 
 #wrapper {
-	overflow: hidden;
 	background: #F1F2E9;
 }
 
@@ -67,7 +66,6 @@ IMG.dcclogo {
 	margin: 0px auto;
 }
 
-/* Header */
 
 #header-wrapper {
 	overflow: hidden;
@@ -79,25 +77,6 @@ IMG.dcclogo {
 	height: 200px;
 	margin: 0 auto;
 	padding: 0px 20px;
-}
-
-/* Banner */
-
-#banner {
-	overflow: hidden;
-	height: 400px;
-	background: url(images/img04.jpg) no-repeat center bottom;
-}
-
-#banner .image-style {
-	border: 15px solid #F4F4F4;
-}
-
-
-
-
-#splash span {
-	color: #313131;
 }
 
 #menu-wrapper {
@@ -127,12 +106,8 @@ IMG.dcclogo {
 	display: block;
 	padding: 0px 30px;
 	line-height: 52px;
-	border: none;
-	text-decoration: none;
 	text-transform: lowercase;
 	text-align: center;
-	text-transform: uppercase;
-	font-family: 'Oswald', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 	color: #FFFFFF;
@@ -174,176 +149,14 @@ IMG.dcclogo {
 	color: #373737;
 }
 
-.links {
-	padding-top: 20px;
-	margin-bottom: 30px;
-}
-
-.more {
-	display: block;
-	float: left;
-	width: 88px;
-	height: 25px;
-	padding: 2px 0px 0px 0px;
-	margin-right: 10px;
-	background: url(images/img08.jpg) no-repeat left top;
-	text-align: center;
-	color: #FFFFFF;
-}
-
-.comments {
-	display: block;
-	float: left;
-	width: 88px;
-	height: 25px;
-	padding: 2px 0px 0px 0px;
-	background: url(images/img08.jpg) no-repeat left top;
-	text-align: center;
-	color: #FFFFFF;
-}
-
-
-
-#sidebar {
-	float: right;
-	width: 384px;
-	margin: 0px;
-	padding: 0px 0px 0px 0px;
-	color: #787878;
-}
-
-#sidebar h2 {
-	margin: 0px 0px 30px 0px;
-	padding: 0px 0px 10px 0px;
-	border-bottom: 3px solid #E0E1D6;
-	text-shadow: 1px 1px 0px #FFFFFF;
-	font-size: 26px;
-	color: #373737;
-}
-
-#sidebar a {
-	border: none;
-}
-
-#sidebar a:hover {
-	text-decoration: underline;
-}
-
-
-
-#calendar {
-}
-
-#calendar_wrap {
-	padding: 20px;
-}
-
-#calendar table {
-	width: 100%;
-}
-
-#calendar tbody td {
-	text-align: center;
-}
-
-#calendar #next {
-	text-align: right;
-}
-
-
-
-#footer-bg {
-	overflow: hidden;
-	padding: 70px 0px;
-	background: #E9EAE1;
-	border-top: 10px solid #E5E6DD;
-}
-
-#footer-content {
-	color: #C59C9C;
-}
-
-#footer-content h2 {
-	margin: 0px 0px 20px 0px;
-	padding: 0px 0px 10px 0px;
-	border-bottom: 3px solid #E0E1D6;
-	text-shadow: 1px 1px 0px #FFFFFF;
-	font-size: 26px;
-	color: #373737;
-}
-
 #footer {
-	height: 100px;
+	height: 50px;
 	margin: 0 auto;
-	padding: 50px 0px 0px 0px;
+	padding: 75px;
 }
 
 #footer p {
-	margin: 0;
-	padding-top: 10px;
-	line-height: normal;
 	text-align: center;
-	text-shadow: 1px 1px 0px #FFFFFF;
-	color: #909090;
-}
-
-#footer a {
-	text-decoration: underline;
-	color: #909090;
-}
-
-#footer a:hover {
-	text-decoration: none;
-	color: #383838;
-}
-
-.box1 {
-	overflow: hidden;
-	height: 300px;
-	background: url(images/img04.jpg) no-repeat center bottom;
-}
-
-.list-style1 {
-	margin: 0px;
-	padding: 0px;
-	list-style: none;
-}
-
-.list-style1 li {
-	padding: 7px 0px 7px 0px;
-	border-top: 1px dashed #E7E2DC;
-}
-
-.list-style1 .first {
-	padding-top: 0px;
-	border-top: none;
-}
-
-.list-style2 {
-	margin: 0px;
-	padding: 0px;
-	list-style: none;
-}
-
-.list-style2 li {
-	padding: 7px 0px 7px 0px;
-	border-top: 1px solid #E0E1D6;
-}
-
-.list-style2 a {
-	text-shadow: 1px 1px 0px #FFFFFF;
-	color: #909090;
-}
-
-.list-style2 a:hover {
-	text-decoration: underline;
-	color: #909090;
-}
-
-.list-style2 .first {
-	padding-top: 0px;
-	border-top: none;
-	background: none;
 }
 
 #banner {
@@ -406,7 +219,6 @@ IMG.dcclogo {
 	background: #50A6C2;
 }
 
-
 .box-style h2 {
 	padding: 10px 0px;
 	letter-spacing: -1px;
@@ -432,10 +244,4 @@ IMG.dcclogo {
 
 .box-style .content a:hover {
 	background: #00688B;
-}
-
-.divider {
-	overflow: hidden;
-	height: 50px;
-	background: url(images/img04.png) no-repeat center top;
 }
