@@ -1,0 +1,48 @@
+body { 
+	background-color: #CDCDCD;
+	text-align: center;
+}
+
+h1, h2{
+	font-family: arial ;
+	color: #236B8E ;
+	text-align: center;
+}
+
+p{
+	font-family: arial ;
+	color: #236B8E ;
+	text-align: left;
+}
+#container {
+	background: #F8F8FF;
+	width: 960px;
+	margin: 0 auto;
+	text-align: left;
+	padding: 20px; 
+}
+
+*{  
+   margin:0;  
+   padding:0;  
+}
+
+table, tr, td {
+	border: 1px solid #CDCDCD;
+	border-collapse: collapse;
+	font-family: arial;
+	color: #236B8E;
+	text-align: center;
+}
+
+ul {
+	font-family: arial;
+	color: #236B8E;
+}
+
+#pictures {
+	border:8px solid #CDCDCD;
+	width: 639px;
+	box-shadow: 4px 4px 5px #000;
+	border-radius: 15px;
+}
