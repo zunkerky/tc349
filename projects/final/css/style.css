@@ -65,20 +65,6 @@ IMG.dcclogo {
 	margin: 0px auto;
 }
 
-
-#header-wrapper {
-	overflow: hidden;
-	height: 600px;
-}
-
-#header {
-	width: 960px;
-	height: 200px;
-	margin: 0 auto;
-	padding: 0px 20px;
-}
-
-
 header { padding: 200px 0 0 0; display: block; }
 header h1 { width: 960px; margin: 0 auto; }
 a { color: #eee; }
@@ -130,45 +116,6 @@ a:hover { color: white; }
 	bottom: -3px;
 }
 
-#menu-wrapper {
-	overflow: hidden;
-	height: 53px;
-	background: #00688B;
-}
-
-#menu {
-	overflow: hidden;
-	height: 52px;
-}
-
-#menu ul {
-	margin: 0;
-	padding: 0px 0px 0px 0px;
-	list-style: none;
-	line-height: normal;
-	text-align: center;
-}
-
-#menu li {
-	display: inline-block;
-}
-
-#menu a {
-	display: block;
-	padding: 0px 30px;
-	line-height: 52px;
-	text-transform: lowercase;
-	text-align: center;
-	font-size: 14px;
-	font-weight: 300;
-	color: #FFFFFF;
-}
-
-#menu a:hover, #menu .current_page_item a {
-	background: #50A6C2;
-	text-decoration: none;
-	color: #FFFFFF;
-}
 
 #page {
 	padding: 20px 20px 40px 20px;
