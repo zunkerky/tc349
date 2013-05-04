@@ -32,8 +32,8 @@ h3 {
 
 
 p, ul, ol {
+	line-height: 125%;
 	margin-top: 0;
-	line-height: 180%;
 }
 
 a {
@@ -119,16 +119,9 @@ IMG.dcclogo {
 	color: #FFFFFF;
 }
 
-#menu .current_page_item a {
-}
-
-
 #page {
-	overflow: hidden;
 	padding: 20px 20px 40px 20px;
 }
-
-
 
 #content {
 	margin: 0px auto;
@@ -143,9 +136,9 @@ IMG.dcclogo {
 .post .title {
 	margin: 0px 0px 30px 0px;
 	padding: 0px 0px 10px 0px;
-	border-bottom: 3px solid #E0E1D6;
+	border-bottom: 2px solid #E0E1D6;
 	text-shadow: 1px 1px 0px #FFFFFF;
-	font-size: 30px;
+	font-size: 35px;
 	color: #373737;
 }
 
@@ -166,60 +159,60 @@ IMG.dcclogo {
 }
 
 
-#three-column {
+#blockicon {
 	overflow: hidden;
 	padding: 10px 0px 50px 0px;
 }
 
-#three-column #tbox1 {
+#blockicon #blockicon1 {
 	float: left;
 	width: 384px;
 	margin-right: 20px;
 }
 
-#three-column #tbox1 a:hover {
+#blockicon #blockicon1 a:hover {
 	background: #00688B;
 	text-decoration: none;
 	color: #FFFFFF;
 }
 
 
-#three-column #tbox2 {
+#blockicon #blockicon2 {
 	float: left;
 	width: 384px;
 	margin-right: 20px;
 }
 
-#three-column #tbox3 {
+#blockicon #blockicon3 {
 	float: right;
 	width: 384px;
 	margin-right: 5px;
 }
 
-#three-column #tbox1 div:hover {
+#blockicon #blockicon1 div:hover {
 	background: #00688B;
 	text-decoration: none;
 	color: #FFFFFF;
 }
 
-#three-column #tbox2 div:hover {
+#blockicon #blockicon2 div:hover {
 	background: #00688B;
 	text-decoration: none;
 	color: #FFFFFF;
 }
 
-#three-column #tbox3 div:hover {
+#blockicon #blockicon3 div:hover {
 	background: #00688B;
 	text-decoration: none;
 	color: #FFFFFF;
 }
 
 
-.box-style {
+.block {
 	background: #50A6C2;
 }
 
-.box-style h2 {
+.block h2 {
 	padding: 10px 0px;
 	letter-spacing: -1px;
 	font-size: 28px;
@@ -227,13 +220,13 @@ IMG.dcclogo {
 	text-align: center;
 }
 
-.box-style .image {
+.block .image {
 	width: 324px;
 	margin-right: auto;
 	margin-left: auto;
 }
 
-.box-style .content {
+.block .content {
 	overflow: hidden;
 	width: 324px;
 	padding: 30px;
@@ -242,6 +235,6 @@ IMG.dcclogo {
 	display: block;
 }
 
-.box-style .content a:hover {
+.block .content a:hover {
 	background: #00688B;
 }
