@@ -79,6 +79,57 @@ IMG.dcclogo {
 }
 
 
+header { padding: 200px 0 0 0; display: block; }
+header h1 { width: 960px; margin: 0 auto; }
+a { color: #eee; }
+a:hover { color: white; }
+
+.nav-wrap { 
+	margin: 0px auto; 
+	background-color: #00688B; 
+	border-bottom: 2px solid white; 
+}
+
+#example-one { 
+	margin: 0px auto; 
+	list-style: none; 
+	position: relative;
+	text-align: center;
+	height: 50px; 
+	 
+}
+#example-one li { 
+	display: inline-block;	
+}
+#example-one a { 
+	color: white; 
+	font-size: 14px; 
+	float: left;
+	padding: 6px 10px 4px 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+#example-one a:hover { 
+	color: white; 
+}
+#magic-line { 
+	position: absolute;
+	bottom: -2px; 
+	left: 0; 
+	width: 100px; 
+	height: 2px; 
+	background: #fe4902;
+}
+.current_page_item a { 
+	color: #50A6C2 !important; 
+}
+.ie6 #example-one li, .ie7 #example-one li { 
+	display: inline; 
+}
+.ie6 #magic-line {
+	bottom: -3px;
+}
+
 #menu-wrapper {
 	overflow: hidden;
 	height: 53px;
